@@ -59,6 +59,58 @@ position: absolute;
 left: 400px;
  top: 400px;
  }
+#img1-1-draggable{
+position: absolute;
+float: right;
+left: 800px;
+top: 200px;
+}
+#img1-2-draggable{
+position: absolute;
+float: right;
+left: 910px;
+top: 210px;
+ }
+ #img1-3-draggable{
+    position: absolute;
+    float: right;
+    left: 1000px;
+    top: 220px;
+    }
 
-
-
+#img2-1-draggable{
+position: absolute;
+float: right;
+left: 820px;
+top: 210px;
+}
+#img2-2-draggable{
+position: absolute;
+float: right;
+left: 900;
+top: 200px;
+}
+#img2-3-draggable{
+    position: absolute;
+    float: right;
+    left: 1000px;
+    top: 200px;
+    }
+#img3-1-draggable{
+position: absolute;
+float: right;
+left: 830px;
+top:300px ;
+}    
+#img3-2-draggable{
+    position: absolute;
+    float: right;
+    left: 885px;
+    top:300px ;
+    } 
+    #img3-3-draggable{
+        position: absolute;
+        float: right;
+        left: 950px;
+        top:300px ;
+        }     
